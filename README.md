@@ -1,4 +1,4 @@
-# SPPalgo-comparision
+# SSP_algorithm_comparision
 
 Compare the execution time of three algorithm which are Dijkstra's algorithm, Bellman–Ford algorithm, and Shortest-path-faster-algorithm.
 
